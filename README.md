@@ -15,21 +15,23 @@
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![C](https://img.shields.io/badge/C-blue)
+![C++](https://img.shields.io/badge/C++-00599C)
+![Python](https://img.shields.io/badge/Python-3776AB)
 
-### ⚙️ Backend & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-green)
-![Node.js](https://img.shields.io/badge/Node.js-brightgreen)
-![Git](https://img.shields.io/badge/Git-orange)
-![GitHub](https://img.shields.io/badge/GitHub-black)
+### 📊 Data & ML
+![NumPy](https://img.shields.io/badge/NumPy-013243)
+![Pandas](https://img.shields.io/badge/Pandas-150458)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C)
 
-### 🤖 AI / Data
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue)
-![Pandas](https://img.shields.io/badge/Pandas-purple)
-![NumPy](https://img.shields.io/badge/NumPy-blue)
+### ⚙️ Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688)
 
----
+### 🧠 Concepts
+- Data Structures & Algorithms (DSA)
+- Machine Learning (ML)
+- Deep Learning (DL)
 
 ## 🚀 Projects
 
