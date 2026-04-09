@@ -1,51 +1,74 @@
 # 👋 Hi, I'm Mujeeb
 
-🚀 I build backend systems, APIs, and AI-powered applications.
+🚀 I build backend systems, APIs, and AI-powered applications
 
 ---
 
 ## 🧠 About Me
-- 💻 Backend Developer (FastAPI)
-- 📊 Working towards Software Developer
-- ⚡ Love building real-world projects
+
+* 💻 Backend Developer (FastAPI)
+* 📊 Aspiring Software Developer
+* ⚡ Love building real-world scalable projects
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-![C](https://img.shields.io/badge/C-blue)
-![C++](https://img.shields.io/badge/C++-00599C)
-![Python](https://img.shields.io/badge/Python-3776AB)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+---
 
 ### 📊 Data & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243)
-![Pandas](https://img.shields.io/badge/Pandas-150458)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+
+---
 
 ### ⚙️ Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+---
+
+### 🧰 Tools & Dev
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
 
 ### 🧠 Concepts
-- Data Structures & Algorithms (DSA)
-- Machine Learning (ML)
-- Deep Learning (DL)
+
+* Data Structures & Algorithms (DSA)
+* Machine Learning (ML)
+* Deep Learning (DL)
+
+---
 
 ## 🚀 Projects
 
 ### 🔹 Social API
-- FastAPI backend with user system
-- CRUD operations & API endpoints
+
+* FastAPI backend with authentication
+* CRUD operations & scalable endpoints
 
 ### 🔹 Whale Optimization Algorithm
-- ML project with optimization techniques
-- Data processing + visualization
+
+* Optimization-based ML project
+* Data processing + visualization
 
 ---
 
 ## 📫 Connect with Me
-- Email: shaikhabdulmujeeb0415@gmail.com
+
+📧 [shaikhabdulmujeeb0415@gmail.com](mailto:shaikhabdulmujeeb0415@gmail.com)
 
 ---
 
