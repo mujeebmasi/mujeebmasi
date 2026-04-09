@@ -8,7 +8,6 @@
 
 * 💻 Backend Developer (FastAPI)
 * 📊 Aspiring Software Developer
-* ⚡ Love building real-world scalable projects
 
 ---
 
