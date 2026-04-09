@@ -6,8 +6,7 @@
 
 ## 🧠 About Me
 - 💻 Backend Developer (FastAPI)
-- 🤖 Interested in AI & Machine Learning
-- 📊 Working towards Data Analyst / AI Engineer
+- 📊 Working towards Software Developer
 - ⚡ Love building real-world projects
 
 ---
