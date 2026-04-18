@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me'
 
 * 💻 Backend Developer (FastAPI)
 * 📊 Aspiring Software Developer
@@ -34,16 +34,12 @@
 
 * Data Structures & Algorithms (DSA)
 * Machine Learning (ML)
-* Deep Learning (DL)
+
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 Social API
-
-* FastAPI backend with authentication
-* CRUD operations & scalable endpoints
 
 ### 🔹 Whale Optimization Algorithm
 
