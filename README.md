@@ -32,7 +32,7 @@
 
 ## 🧠 Concepts
 
-* Data Structures & Algorithms (DSA)
+* Data Structures And Algorithms (DSA)
 * Machine Learning (ML).
 
 
