@@ -4,14 +4,11 @@
 
 ---
 
-## 🧠 About Me'
 
-* 💻 Backend Developer (FastAPI)
-* 📊 Aspiring Software Developer
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
@@ -31,10 +28,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ---
 
-## 🧠 Concepts
+## 🧠 CS FUNDAMENTALS 
 
 * Data Structures And Algorithms (DSA)
 * Machine Learning (ML).
+* Object Oriented Programming (OOP).
+* Computer Networks
+
 
 
 ---
@@ -42,14 +42,14 @@
 ## 🚀 Projects
 
 
-### 🔹 Whale Optimization Algorithm
+###  Whale Optimization Algorithm
 
 * Optimization-based ML project
 * Data processing + visualization
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 📧 [shaikhabdulmujeeb0415@gmail.com](mailto:shaikhabdulmujeeb0415@gmail.com)
 
