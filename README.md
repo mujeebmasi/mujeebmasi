@@ -56,4 +56,4 @@
 
 ---
 
-⭐ *Consistent learning. Building daily.*
+⭐ *Consistent learning. Building daily!*
