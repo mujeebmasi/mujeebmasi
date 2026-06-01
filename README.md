@@ -38,6 +38,7 @@
 
 
 
+
 ---
 
 ## 🚀 Projects
@@ -45,7 +46,7 @@
 
 ###  Whale Optimization Algorithm
 
-* Optimization-based ML project
+* Optimization-based Machine Learning project
 * Data processing + visualization
 
 ---
