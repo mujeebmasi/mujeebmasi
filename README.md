@@ -36,20 +36,8 @@
 * Object Oriented Programming (OOP).
 * Computer Networks
 
-
-
-
 ---
 
-## 🚀 Projects
-
-
-###  Whale Optimization Algorithm
-
-* Optimization-based Machine Learning project
-* Data processing + visualization
-
----
 
 ##  Connect with Me
 
