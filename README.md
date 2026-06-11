@@ -34,7 +34,7 @@
 
 📧 Email: shaikhabdulmujeeb0415@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/mujeebmasi
+💼 Linkedin: https://www.linkedin.com/in/mujeebmasi
 ---
 
 ⭐ *Consistent learning. Building daily!*
