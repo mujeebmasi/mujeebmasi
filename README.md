@@ -2,9 +2,6 @@
 
 🚀 I build backend systems, APIs, and AI-powered applications
 
-
-
-
 ---
 
 
@@ -29,14 +26,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
----
-
-## 🧠 CS FUNDAMENTALS 
-
-* Data Structures And Algorithms (DSA)
-* Machine Learning (ML).
-* Object Oriented Programming (OOP).
-* Computer Networks
 
 ---
 
