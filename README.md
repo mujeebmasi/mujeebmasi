@@ -29,12 +29,11 @@
 
 ---
 
-
 ## Connect with Me
 
 📧 Email: shaikhabdulmujeeb0415@gmail.com
 
-💼 Linkedin: https://www.linkedin.com/in/mujeebmasi
+💼 LinkedIn: [mujeebmasi](https://www.linkedin.com/in/mujeebmasi)
 ---
 
 ⭐ *Consistent learning. Building daily!*
