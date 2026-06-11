@@ -41,10 +41,11 @@
 ---
 
 
-##  Connect with Me
+## Connect with Me
 
 📧 [shaikhabdulmujeeb0415@gmail.com](mailto:shaikhabdulmujeeb0415@gmail.com)
 
+💼 [LinkedIn](https://www.linkedin.com/in/mujeebmasi)
 ---
 
 ⭐ *Consistent learning. Building daily!*
