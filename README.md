@@ -31,9 +31,7 @@
 
 ## Connect with Me
 
-📧 Email: shaikhabdulmujeeb0415@gmail.com
-
-💼 LinkedIn: [mujeebmasi](https://www.linkedin.com/in/mujeebmasi)
----
+- 📧 Email: shaikhabdulmujeeb0415@gmail.com
+- 💼 LinkedIn: [mujeebmasi](https://www.linkedin.com/in/mujeebmasi)
 
 ⭐ *Consistent learning. Building daily!*
