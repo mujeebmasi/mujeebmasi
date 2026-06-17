@@ -38,4 +38,4 @@
 
 ---
 
-⭐ *Consistent learning. Building daily!*
+⭐ *Hardwork beats Talent*
