@@ -4,6 +4,7 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=mujeebmasi&color=blue)
 
 ## Tech Stack
 
