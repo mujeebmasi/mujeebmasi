@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mujeeb
+#  Hi, I'm Mujeeb
 
 🚀 I build backend systems, APIs, and AI-powered applications
 
@@ -39,4 +39,4 @@
 
 ---
 
-⭐ *Hardwork beats Talent*
+⭐ *just build!*
