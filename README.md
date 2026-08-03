@@ -1,59 +1,109 @@
-# Hi, I'm Mujeeb 👋
+<h1 align="center">Hi 👋, I'm Mujeeb</h1>
 
-### 🚀 AI Engineer • Backend Developer
+<h3 align="center">
+AI Engineer • Backend Developer
+</h3>
 
-I build AI-powered applications, intelligent agents, scalable backend systems, and modern APIs.
+<p align="center">
+I build AI-powered applications, intelligent agents, scalable backend systems, and APIs using modern technologies.
+</p>
 
-- 🤖 Building AI Agents & RAG Applications
-- ⚡ Developing scalable APIs with FastAPI
-- 🧠 Exploring LLMs, AI workflows, and distributed systems
+---
+
+## 🚀 About Me
+
+- 🤖 Building **AI Agents**, **RAG Systems**, and **LLM Applications**
+- ⚡ Developing scalable backend APIs with **FastAPI**
+- 🧠 Interested in AI Engineering, Backend Development, and Distributed Systems
+- 📚 Currently exploring advanced AI workflows and production-ready backend architectures
 
 ---
 
 ## 🛠 Tech Stack
 
-### AI & Machine Learning
+### 🤖 AI
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
 
-### Backend
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+---
 
-### Frontend
+### ⚙️ Backend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,postgres,redis,docker,git,github" />
+</p>
 
-### Tools
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### 💻 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🤖 AI Multi-Agent Research System
-- 📄 AI PDF Chat (RAG)
-- 🔐 Redis OTP Authentication
-- 📝 AI Transaction Processing Pipeline
+### 🤖 AI Multi-Agent Research System
+> Multi-agent workflow powered by LangGraph and LangChain for autonomous research.
 
 ---
 
-## 📫 Connect With Me
+### 📄 AI PDF Chat (RAG)
+> Chat with PDFs using vector search, embeddings, and Retrieval-Augmented Generation.
 
-📧 **Email:** shaikhabdulmujeeb0415@gmail.com
+---
 
-💼 **LinkedIn:** https://linkedin.com/in/mujeebmasi
+### 🔐 Redis OTP Authentication
+> High-performance OTP authentication system using Redis with expiration and FastAPI.
+
+---
+
+### 💳 AI Transaction Processing Pipeline
+> AI-powered backend pipeline using FastAPI, Redis, PostgreSQL, Celery, and LLMs.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+📧 **Email**
+> shaikhabdulmujeeb0415@gmail.com
+
+💼 **LinkedIn**
+> https://linkedin.com/in/mujeebmasi
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
