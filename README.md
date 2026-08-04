@@ -36,18 +36,7 @@ I build AI-powered applications, intelligent agents, scalable backend systems, a
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 
 </p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mujeebmasi&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <img height="170" src="https://streak-stats.demolab.com?user=mujeebmasi&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujeebmasi&layout=compact&theme=tokyonight" />
-</p>
+>
 
 ---
 
