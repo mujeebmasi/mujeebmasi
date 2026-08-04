@@ -40,19 +40,13 @@ I build AI-powered applications, intelligent agents, scalable backend systems, a
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mujeebmasi&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mujeebmasi&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mujeebmasi&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height="170" src="https://streak-stats.demolab.com?user=mujeebmasi&theme=tokyonight" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujeebmasi&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujeebmasi&layout=compact&theme=tokyonight" />
 </p>
 
 ---
