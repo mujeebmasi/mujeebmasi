@@ -30,7 +30,7 @@ I build AI-powered applications, agent evaluation tools, and full-stack products
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p>
 
