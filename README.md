@@ -10,17 +10,17 @@ I build AI-powered applications, agent evaluation tools, and full-stack products
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-* 🎓 B.Tech student (AI & ML) at Vardhaman College of Engineering
-* 💼 Contract AI Computer Science Engineer at Drytis (Aug 2026 – Present)
-* 🤖 Building RAG systems, LangGraph workflows, and LLM applications
-* 🧪 Building evaluation tooling for voice and chat agents
-* ⚡ Full-stack apps with Next.js, NestJS, FastAPI, and PostgreSQL
+*  B.Tech student (AI & ML) at Vardhaman College of Engineering
+*  Contract AI Computer Science Engineer at Drytis (Aug 2026 – Present)
+*  Building RAG systems, LangGraph workflows, and LLM applications
+*  Building evaluation tooling for voice and chat agents
+*  Full-stack apps with Next.js, NestJS, FastAPI, and PostgreSQL
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 | Project | What it does |
 | --- | --- |
