@@ -26,7 +26,6 @@ I build AI-powered applications, agent evaluation tools, and full-stack products
 | --- | --- |
 | [Meet Translate](https://github.com/mujeebmasi/meeting-translate) | Video meetings where Hindi, Telugu, Tamil and Kannada speakers are heard in English, as live captions and a spoken voice |
 | [Voice Agent Eval Harness](https://github.com/mujeebmasi/voice-agent-eval-harness) | Scores support agents on escalation correctness, language fidelity and interruption handling |
-| [WiseHire](https://github.com/mujeebmasi/WiseHire) | Job board where employers can require verified applicants, enforced by the server |
 | [RedisRAG](https://github.com/mujeebmasi/RedisRAG) | RAG platform that analyzes GitHub profiles using Redis vector search and Gemini ([live](https://redis-rag.vercel.app/)) |
 
 ---
