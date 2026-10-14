@@ -24,7 +24,7 @@ I build AI-powered applications, agent evaluation tools, and full-stack products
 
 | Project | What it does |
 | --- | --- |
-| [Meet Translate](https://github.com/mujeebmasi/meet-translate) | Video calls where Hindi, Telugu and English speakers hear each other in their own language, live, with Google Gemini and OpenAI realtime models compared on real calls ([live](https://meet-translate.vercel.app/)) |
+| [Meet Translate](https://github.com/mujeebmasi/meet-translate) | Video calls where Hindi, Telugu and English speakers hear each other in their own language, live, with Google Gemini and OpenAI realtime models compared on real calls ([live](https://meet-translate.vercel.app/) · [demo](https://drive.google.com/drive/folders/15w5Yi-qPtGMeDCfk9_zgtkGROKKFqs99?usp=sharing)) |
 | [RedisRAG](https://github.com/mujeebmasi/redis-rag) | RAG platform that analyzes GitHub profiles using Redis vector search and Gemini ([live](https://redis-rag.vercel.app/)) |
 
 ---
