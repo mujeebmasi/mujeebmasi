@@ -13,7 +13,7 @@ I build AI-powered applications, agent evaluation tools, and full-stack products
 ##  About Me
 
 *  B.Tech student (AI & ML) at Vardhaman College of Engineering
-*  Fullstack AI Developer at WiseIn (Oct 2026 – Present), building TapByWisein, a live events and digital card platform
+*  Fullstack AI Developer at WiseIn (Oct 2026 – Present)
 *  Previously Contract AI Computer Science Engineer at Drytis (Aug 2026 – Oct 2026)
 *  Building RAG systems, LangGraph workflows, and LLM applications
 *  Currently working on Voice related agentic systems
